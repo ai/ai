@@ -15,4 +15,6 @@ My projects and areas of expertise:
 <a href="https://github.com/logux/logux"><img src="https://logux.io/branding/logo.svg" width="80" height="80" alt="Logux logo" /></a>&nbsp;&nbsp;
 <a href="https://github.com/ai/size-limit"><img src="https://ai.github.io/size-limit/logo.svg" width="54" height="80" alt="Size Limit logo" /></a>&nbsp;&nbsp;
 <a href="https://github.com/ai/nanoid"><img src="https://ai.github.io/nanoid/logo.svg" width="100" height="80" alt="Size Limit logo" /></a>&nbsp;&nbsp;
-<a href="https://github.com/storeon/storeon"><img src="https://storeon.github.io/storeon/logo.svg" width="80" height="80" alt="Storeon logo" /></a>
+<a href="https://github.com/storeon/storeon"><img src="https://storeon.github.io/storeon/logo.svg" width="80" height="80" alt="Storeon logo" /></a>&nbsp;&nbsp;
+<a href="https://github.com/hplush"><img src="https://raw.githubusercontent.com/hplush/hplu.sh/main/branding/logo.svg" width="" height="80" alt="H+H lab logo" /></a>&nbsp;&nbsp;
+<a href="https://github.com/ai/visbilityjs"><img src="https://raw.githubusercontent.com/ai/visibilityjs/master/logo.svg" width="67" height="80" alt="Visibility.js logo" /></a>
