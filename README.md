@@ -6,4 +6,13 @@ My projects and areas of expertise:
   [Nano Stores](https://github.com/ai/nanostores), [Nano Events](https://github.com/ai/nanoevents), [Nano Delay](https://github.com/ai/nanodelay).
 * **CRDT & distributed systems:** [Logux](https://logux.io/).
 * **Calligraphy & language diversity:** [Linguopunk Twitter](https://twitter.com/linguopunk), [Твиттер Лингвопанка](https://twitter.com/linguopunk_ru),
-  [Телеграм Лингвопанка](https://t.me/linguopunk). 
+  [Телеграм Лингвопанка](https://t.me/linguopunk).
+* **GNOME Shell extensions:** [Autohide Battery](https://github.com/ai/autohide-battery), [Hide Keyboard Layout](https://github.com/ai/hide-keyboard-layout)
+
+<a href="https://github.com/postcss/postcss"><img src="https://postcss.org/logo.svg" width="80" height="80" alt="PostCSS logo" /></a>&nbsp;&nbsp;
+<a href="https://github.com/postcss/autoprefixer"><img src="http://postcss.github.io/autoprefixer/logo.svg" width="80" height="80" alt="Autoprefixer logo" /></a>&nbsp;&nbsp;
+<a href="https://github.com/browserslist/browserslist"><img src="https://browserslist.github.io/browserslist/logo.svg" width="80" height="80" alt="Browserslist logo" /></a>&nbsp;&nbsp;
+<a href="https://github.com/ai/size-limit"><img src="https://ai.github.io/size-limit/logo.svg" width="54" height="80" alt="Size Limit logo" /></a>&nbsp;&nbsp;
+<a href="https://github.com/ai/nanoid"><img src="https://ai.github.io/nanoid/logo.svg" width="100" height="80" alt="Size Limit logo" /></a>&nbsp;&nbsp;
+<a href="https://github.com/logux/logux"><img src="https://logux.io/branding/logo.svg" width="80" height="80" alt="Logux logo" /></a>&nbsp;&nbsp;
+<a href="https://github.com/storeon/storeon"><img src="https://storeon.github.io/storeon/logo.svg" width="80" height="80" alt="Storeon logo" /></a>
