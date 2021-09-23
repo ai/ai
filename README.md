@@ -18,5 +18,5 @@ My projects and areas of expertise:
 <a href="https://github.com/storeon/storeon"><img src="https://storeon.github.io/storeon/logo.svg" width="70" height="70" alt="Storeon logo" /></a>&nbsp;
 <a href="https://github.com/postcss/sugarss"><img src="http://postcss.github.io/sugarss/logo.svg" width="70" height="70" alt="SugarSS logo" /></a>&nbsp;
 <a href="https://github.com/nanostores/nanostores"><img src="https://nanostores.github.io/nanostores/logo.svg" width="70" height="70" title="Nano Stores logo"></a>&nbsp;
-<a href="https://github.com/hplush"><img src="https://raw.githubusercontent.com/hplush/hplu.sh/main/branding/logo.svg" width="" height="70" alt="H+H lab logo" /></a>&nbsp;
+<a href="https://github.com/ai/nanocolors"><img src="https://raw.githubusercontent.com/ai/nanocolors/main/img/logo.svg" width="" height="70" alt="Nano Colors logo" /></a>&nbsp;
 <a href="https://github.com/ai/visibilityjs"><img src="https://raw.githubusercontent.com/ai/visibilityjs/master/logo.svg" width="67" height="70" alt="Visibility.js logo" /></a>
