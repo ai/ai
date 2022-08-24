@@ -1,4 +1,4 @@
-My projects and areas of expertise:
+My projects and areas of expertise that may help you:
 
 * **CSS processing & front-end tooling:** [Autoprefixer](https://github.com/postcss/autoprefixer), [Browserslist](https://github.com/browserslist/browserslist),
   [PostCSS](https://github.com/postcss/postcss), and many PostCSS plugins.
