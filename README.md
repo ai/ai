@@ -9,7 +9,7 @@ My projects and areas of expertise:
 * **Calligraphy & language diversity:** [Linguopunk Twitter](https://twitter.com/linguopunk), [Твиттер Лингвопанка](https://twitter.com/linguopunk_ru),
   [Телеграм Лингвопанка](https://t.me/linguopunk).
 * **Linux:** [my configs](https://github.com/ai/environment), [my keyboard layout](https://github.com/ai/universal-layout), and
-  GNOME Shell extensions: [Autohide Battery](https://github.com/ai/autohide-battery), [Hide Keyboard Layout](https://github.com/ai/hide-keyboard-layout).
+  GNOME Shell extensions: [Autohide Battery](https://github.com/ai/autohide-battery), [Folder Search Provider](https://github.com/ai/folder-search-provider), [Hide Keyboard Layout](https://github.com/ai/hide-keyboard-layout).
 
 <a href="https://github.com/postcss/postcss"><img src="https://postcss.org/logo.svg" width="70" height="70" alt="PostCSS logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/browserslist/browserslist"><img src="https://browserslist.github.io/browserslist/logo.svg" width="70" height="70" alt="Browserslist logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
