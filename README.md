@@ -6,8 +6,6 @@ My projects and areas of expertise:
 * **JS nano libraries:** [Size Limit](https://github.com/ai/size-limit/) to track library size, [NanoID](https://github.com/ai/nanoid),
   [Nano Stores](https://github.com/ai/nanostores), [Nano Events](https://github.com/ai/nanoevents), [Nano Delay](https://github.com/ai/nanodelay).
 * **CRDT & distributed systems:** [Logux](https://logux.org/).
-* **Calligraphy & language diversity:** [Linguopunk Twitter](https://twitter.com/linguopunk), [Твиттер Лингвопанка](https://twitter.com/linguopunk_ru),
-  [Телеграм Лингвопанка](https://t.me/linguopunk).
 * **Linux:** [my configs](https://github.com/ai/environment), [my keyboard layout](https://github.com/ai/universal-layout), and
   GNOME Shell extensions: [Autohide Battery](https://github.com/ai/autohide-battery), [Folder Search Provider](https://github.com/ai/folder-search-provider), [Hide Keyboard Layout](https://github.com/ai/hide-keyboard-layout).
 
